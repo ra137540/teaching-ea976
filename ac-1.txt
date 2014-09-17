@@ -6,7 +6,7 @@ e responda às seguintes questões:
 
 1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
 
-	Resposta:
+	Resposta: A proporção de projetos que falharam foi de 30%. Esse valor é confiável pelo fato de que os próprios desenvolvedores dos projetos apontaram quais projetos falharam.
 
 
 
