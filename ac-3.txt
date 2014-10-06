@@ -3,23 +3,23 @@
 1.- Git push + git pull request of one standards-based requirements document of your choice.
 2.- Git push + git pull request this file marking with Y (yes) or N (no) if the chosen requirements documents includes the given chapters and the notation elements used.
 
-### Structure of a requirements document 
+### Structure of a requirements  
 
-Y/N : Preface
-Y/N : Introduction
-Y/N : Glossary
-Y/N : User requirements definition
-Y/N : System architecture
-Y/N : System requirements specification
-Y/N : System models
+Y/N : Preface  Y
+Y/N : Introduction  Y
+Y/N : Glossary  Y
+Y/N : User requirements definition  Y
+Y/N : System architecture  Y
+Y/N : System requirements specification  Y
+Y/N : System models  Y
 Y/N : System evolution
-Y/N : Appendices
-Y/N : Index
+Y/N : Appendices  Y
+Y/N : Index  Y
 
 
 ### Notation
-Y/N : Natural language
-Y/N : Structured natural language 
-Y/N : Design description languages
-Y/N : Graphical notations
-Y/N : Mathematical specifications
+Y/N : Natural language  Y
+Y/N : Structured natural language  Y
+Y/N : Design description languages  Y
+Y/N : Graphical notations  Y
+Y/N : Mathematical specifications  N
